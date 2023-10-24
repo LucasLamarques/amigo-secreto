@@ -1,4 +1,4 @@
-# README - Sorteio de Amigo Secreto
+# Sorteio de Amigo Secreto
 
 ## Descrição
 
@@ -22,4 +22,4 @@ Este projeto está implantado e disponível online. Você pode acessá-lo [aqui]
 
 ## Autor
 
-[Lucas Lamarques com ajuda da Alura cursos]
+Lucas Lamarques com ajuda da Alura cursos.
